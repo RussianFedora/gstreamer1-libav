@@ -1,0 +1,5 @@
+Название:                   gstreamer1-libav
+Мейнтейнер:                 Arkady L. Shane
+Репозиторий:                russianfedora-free
+Почему не в апстриме:       Поддерживает libav, не позволяют патенты. В RPM Fusion ещё нет.
+Комментарий:                Кодеки для нового gstreamer
